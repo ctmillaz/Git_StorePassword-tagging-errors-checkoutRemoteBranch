@@ -92,7 +92,10 @@ cat .git/HEAD
 ```
 rm <directory_listed_command>
 ```
-
+### force push if you know you have the latest updates and it's making you fast forward
+```
+git push --force
+```
 
 
 ---------------------------------------------------------------------------------------------------------------------------------
