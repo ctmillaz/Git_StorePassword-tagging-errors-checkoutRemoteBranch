@@ -98,6 +98,14 @@ git push --force
 ```
 
 
+### Problem: Fatal: Not a git repository (or any parent up to mount point /home) Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+### Solution:
+```
+git init
+git remote add origin <REPO_URL>
+```
+
 ---------------------------------------------------------------------------------------------------------------------------------
 
 
