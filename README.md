@@ -85,6 +85,14 @@ git tag -d <tag name>
 		fatal: cannot lock HEAD ref
 
 ### Solution:	Reclone git repo and copy source and compiler config
+### Alternative Solution: 
+```
+cat .git/HEAD
+```
+```
+rm <directory_listed_command>
+```
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------------
