@@ -33,7 +33,7 @@
 ### The config file needs tight permissions to keep others out, and SSH makes sure permissions are set before it works. But that doesn’t mean SSH will necessarily work after fixing this one issue.
 
 -----------------------------------------------------------------------------------------------------------------------------------
-#Tagging
+# Tagging
 
 ### Checking out a tag is like checking out a specific commit that was labeled.
 ### Make sure all tags exist locally
@@ -72,7 +72,7 @@ git tag -a
 ```
 git tag -d <tag name>
 
-
+```
 ----------------------------------------------------------------------------------------------------------------------------
 # Errors
 
