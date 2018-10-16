@@ -1,6 +1,6 @@
-# StoreGitPassword-tagging-errors-checkoutRemoteBranch
+# GitStorePassword-tagging-errors-checkoutRemoteBranch
 
-# How to make git cache your password on GitHub
+## How to make git cache your password on GitHub
 
 ### Set git to use the credential memory cache
 `$git config --global credential.helper cache`
